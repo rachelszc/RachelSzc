@@ -28,4 +28,4 @@ latest_posts:
 ---
 I am a social scientist, educator, and program leader working to understand how people learn, collaborate, and take action to address complex climate and sustainability challenges. 
 
-Currently, I am an independent consultant based in Michigan, U.S.A. and PhD Candidate at [Michigan State University] (https://msu.edu).
+Currently, I am an independent consultant based in Michigan, U.S.A. and PhD Candidate at [Michigan State University](https://msu.edu).
