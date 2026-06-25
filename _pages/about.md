@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> Research, Learning, and Systems Change for Sustainability Transitions
+subtitle: <a href='#'>Research, Learning, and Systems Change for Sustainability Transitions</a>
 
 profile:
   align: right
