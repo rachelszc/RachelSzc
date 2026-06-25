@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/Szczytko_CV_june2026.pdf # you can also use external links here
-cv_format: jsonresume # options: rendercv, jsonresume
+cv_format: rendercv # options: rendercv, jsonresume
 description: My current CV
 toc:
   sidebar: left
