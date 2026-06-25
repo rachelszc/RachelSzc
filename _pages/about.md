@@ -6,12 +6,12 @@ subtitle: <a href='#'> Research, Learning, and Systems Change for Sustainability
 
 profile:
   align: right
-  image: Headshot_June2026.jpg
+  image: Headshot_June2026.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Michigan State University</p>
-    <p>[Department of Community Sustainability](https://www.canr.msu.edu/csus/)</p>
-    <p>[Environmental Science and Policy Program](https://espp.msu.edu)</p>
+    <p>Department of Community Sustainability</p>
+    <p>Environmental Science and Policy Program</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
